@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/forestin/http-rest-api/internal/apiserver"
+	"github.com/forestin/http-rest-api/internal/app/apiserver"
 )
 
 func main() {
